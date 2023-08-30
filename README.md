@@ -10,7 +10,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 - 👉 Heroku Mirror: [https://react-amazona-mirror.herokuapp.com](https://react-amazona-mirror.herokuapp.com)
 
 
-## You Will Learn
+## You Will Learn## You Will Learn## You Will Learn## You Will Learn
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
 - React: Components, Props, Events, Hooks, Router, Axios
